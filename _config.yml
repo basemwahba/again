@@ -13,4 +13,4 @@ markdown: kramdown
 
 staticman:
   api: "https://anasbasem.herokuapp.com/v2/entry/basemwahba/again/master/comments"
-  path: "_data/comments/test-slug"
+  path: "_data/comments"
